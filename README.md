@@ -1,2 +1,2 @@
 # Frontend portfolio
-https://jimmythongtran.github.io/the-news-times/
+<a href="https://jimmythongtran.github.io/the-news-times/" target="_new">https://jimmythongtran.github.io/the-news-times/</a>
