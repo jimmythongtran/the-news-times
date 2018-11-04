@@ -1,0 +1,72 @@
+/*
+ * Using principles from maintainable CSS article:
+ * https://pyx.space/post/keys-to-maintainable-css-order
+ * Layout, Box, Visual, Type
+ */
+
+
+
+ /* classes */
+.article-img {
+    width: 100%;
+}
+
+ .article-title {
+    font-size: 30px;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+ }
+ 
+ .brand {
+     font-family: "Snell Roundhand";
+     font-weight: normal;
+     font-size: 60px;
+     text-align: center;
+ }
+ 
+ .brand-header {
+     border-bottom: 3px solid black;
+ }
+
+ .class1 {
+    background-color:#ffeaa7;
+ }
+
+ .class2 {
+    background-color: #81ecec;
+ }
+
+ .class3 {
+    background-color: #55efc4;
+ }
+
+ .class4 {
+    background-color: #74b9ff;
+ }
+
+ .class5{
+    background-color: #a29bfe;
+ }
+
+ .quarter {
+    width: 25%;
+  }
+  
+  .half {
+    width: 50%;
+  }
+  
+
+ .row {
+     display: flex;
+
+     border-bottom: 3px solid black;
+     border-left: 1px solid black;
+     /* border-right: 1px solid black;  */
+ }
+
+ .story {
+     border-right: 1px solid black;
+     padding: 0 10px;
+ }
