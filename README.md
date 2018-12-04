@@ -3,10 +3,11 @@
 ### Frontend portfolio
 <details>
 <summary>What is it?</summary>
-```ts
-frontEndPortfolio : bestThingInWorld;
+```
+A nice way to view collapsibles
 ```
 </details>
+```
 
 > <details>
 > <summary>Mess with blockquoting</summary>
