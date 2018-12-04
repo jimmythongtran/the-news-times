@@ -4,6 +4,11 @@
 <details>
 <summary>What is it?</summary>
 ```ts
-frontEndPortfolio = bestThingInWorld;
+frontEndPortfolio : bestThingInWorld;
 ```
 </details>
+
+> <details>
+> <summary>Mess with blockquoting</summary>
+> Fresh
+> </details>
