@@ -3,7 +3,7 @@
 ### Frontend portfolio
 <details>
 <summary>What is it?</summary>
-```
+```ts
 frontEndPortfolio = bestThingInWorld;
 ```
 </details>
