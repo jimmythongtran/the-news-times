@@ -1,3 +1,3 @@
-https://jimmythongtran.github.io/the-news-times/
+<a href="https://jimmythongtran.github.io/the-news-times/">The News Times</a>
 
 ### Frontend portfolio
