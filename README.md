@@ -7,9 +7,13 @@
 A nice way to view collapsibles
 ```
 </details>
-```
+
 
 > <details>
 > <summary>Mess with blockquoting</summary>
 > Fresh
 > </details>
+
+| Item | Price | Qty |
+|------|-------|-----|
+|Grapes|$2.99  |2    |
