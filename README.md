@@ -4,7 +4,7 @@
 <details>
 <summary>What is it?</summary>
 ```
-A nice way to view collapsibles
+A nice way to view collapsibles. Hopefully, this works.
 ```
 </details>
 
